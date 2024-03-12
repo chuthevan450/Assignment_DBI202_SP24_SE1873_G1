@@ -1,6 +1,7 @@
 ﻿/*
 ===================== SQL TẠO DATABASE, TẠO BẢNG =====================
 */
+-- how to change
 
 -- Tạo Database Dormitories
 create database Dormitories;
